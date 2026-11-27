@@ -1,6 +1,6 @@
 # GostBuilder
 
-[![License: MIT](https://img.shields.io/github/license/Cyrald/md2gost)](LICENSE)
+[![License: MIT](https://img.shields.io/github/license/Cyrald/GostBuilder)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
@@ -18,8 +18,8 @@ GostBuilder — настольное приложение, которое пре
 Требуется Python 3.10 или новее. В Linux дополнительно необходим Tkinter: `sudo apt install python3-tk`.
 
 ```bash
-git clone https://github.com/Cyrald/md2gost.git
-cd md2gost
+git clone https://github.com/Cyrald/GostBuilder.git
+cd GostBuilder
 pip install -r requirements.txt
 python main.py
 ```
